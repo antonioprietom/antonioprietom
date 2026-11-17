@@ -17,9 +17,9 @@ Actualmente busco mi primera oportunidad profesional en el sector IT (prácticas
 
 ### 🚀 Proyectos Destacados
 
-* **[Nombre de tu Proyecto Angular / Ionic]** - *(Ej: App móvil o panel de gestión corporativo)*
-  * *Tecnologías:* Angular, TypeScript, Ionic, SQL / Backend
-  * [🔗 Ver en vivo](enlace-a-produccion) | [💻 Código fuente](enlace-al-repo)
+* **Harry Potter Angular App** - *Aplicación web interactiva del universo mágico con consumo de API, gestión de personajes, películas y libros.*
+  * *Tecnologías:* Angular, TypeScript, SCSS, Git & GitHub
+  * [🔗 Ver repositorio](https://github.com/antonioprietom/harry-potter-angular)
 
 * **[Nombre de tu Proyecto Full-Stack Java/PHP/Python]** - *(Ej: API REST o sistema backend)*
   * *Tecnologías:* Java / PHP / Python, Base de datos SQL
@@ -30,4 +30,4 @@ Actualmente busco mi primera oportunidad profesional en el sector IT (prácticas
 ### 📫 ¿Cómo contactar conmigo?
 
 * **LinkedIn:** [Tu enlace a LinkedIn]
-* **Email:** tu-correo@email.com
+* **Email:** toniprietomejias@gmail.com
